@@ -28,5 +28,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any questions or suggestions, feel free to reach out to akshayvatstyagi0007@gmail.com or submit an issue.
 
-
-You can customize the installation steps, usage instructions, and contact information based on your specific project setup.
